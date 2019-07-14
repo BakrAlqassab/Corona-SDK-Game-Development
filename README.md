@@ -1,2 +1,2 @@
-# Corona-SDK Game Development
- Tämä Peli Tehty Corona-SDK : lla 
+﻿# Corona-SDK Game Development
+ TämäSota Peli Tehty Corona-SDK : lla 
