@@ -1,2 +1,3 @@
 ﻿# Corona-SDK Game Development
- Tämä Mobeli Sota Peli Tehty Corona-SDK : lla 
+
+This mobile game project is done by Corona SDK Game Development 
